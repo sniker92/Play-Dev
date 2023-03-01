@@ -1,0 +1,15 @@
+#jogo {
+	width: 800px;
+	height: 400px;
+	border: 1px solid black;
+	position: relative;
+}
+
+#personagem {
+	width: 40px;
+	height: 40px;
+	background-color: red;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
